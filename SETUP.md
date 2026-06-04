@@ -10,7 +10,7 @@ Follow these steps to get your Ayodhya Estate React application running.
 - **MongoDB** - [Local Install](https://www.mongodb.com/try/download/community) or [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 - **Cloudinary Account** - [Sign up free](https://cloudinary.com/users/register/free)
 - **Gmail Account** (for email notifications)
-
+ 
 --- 
 
 ## 🚀 Step-by-Step Setup
