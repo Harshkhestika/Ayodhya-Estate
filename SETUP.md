@@ -11,7 +11,7 @@ Follow these steps to get your Ayodhya Estate React application running.
 - **Cloudinary Account** - [Sign up free](https://cloudinary.com/users/register/free)
 - **Gmail Account** (for email notifications)
 
----
+--- 
 
 ## 🚀 Step-by-Step Setup
 
